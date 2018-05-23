@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2IYvsNz' target='_blank'><img src='https://2.bp.blogspot.com/-hMHeoTjl5JQ/WwVkdqvo-MI/AAAAAAAAABE/a6glO_Ot99U_pRCtNBt2pgxrJD7wdKCXgCLcBGAs/s1600/phoi-canh-can-ho-la-cosmo-tan-binh-1050x525.jpg' width='500px'/><br/>Liên hệ: 0908894034</a>. Liên hệ: 0908894034. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2IYvsNz' target='_blank'><img src='https://2.bp.blogspot.com/-hMHeoTjl5JQ/WwVkdqvo-MI/AAAAAAAAABE/a6glO_Ot99U_pRCtNBt2pgxrJD7wdKCXgCLcBGAs/s1600/phoi-canh-can-ho-la-cosmo-tan-binh-1050x525.jpg' width='500px'/><br/>La Cosmo Tân Bình</a>. Liên hệ: 0908894034. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
